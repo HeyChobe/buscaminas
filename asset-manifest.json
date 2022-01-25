@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/buscaminas/static/js/main.dacb0781.js",
+    "static/js/787.3a7c8976.chunk.js": "/buscaminas/static/js/787.3a7c8976.chunk.js",
+    "static/media/bomb.jpeg": "/buscaminas/static/media/bomb.8bcaf3ff5aa9169e368f.jpeg",
+    "index.html": "/buscaminas/index.html",
+    "main.dacb0781.js.map": "/buscaminas/static/js/main.dacb0781.js.map",
+    "787.3a7c8976.chunk.js.map": "/buscaminas/static/js/787.3a7c8976.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dacb0781.js"
+  ]
+}
